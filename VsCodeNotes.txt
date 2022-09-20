@@ -1,0 +1,46 @@
+open vscode termial syntax: ctrl + ` or drag from the bottom of the screen
+f11 in windows for full screen check ou zen mode under appearence too
+ctrl + shift + X for extention tab
+to search find or replace use the search bar
+ctrl+ f to search also instead of search bar 
+ctrl + h to replace
+ctrl + + or ctrl + - to zoom in and out of ur code
+right click a variable for mor details
+double click file on the explore section to make sure it doesn't close when u open another file
+split open files by right clicking on them and choose split option OR just drag around the file tab to your liking
+colour theme settings..okay i just fell in love with the Kimbie dark theme at first sight uwu
+cheCK OUT SHORT CUTS in coomand palet (ctrl + shift + p)
+ctrl + p to find files
+u can aslo change things like font size in the settings and more
+REFERENCE :https://www.youtube.com/watch?v=ORrELERGIHs&list=WL&index=1&ab_channel=TechWithTim
+
+now i finally have to learn abt git and github🤸‍♀️😂🤞
+common commands used in Git
+1. git init - to initialize a folder as a  
+2. git add <file> - to add a file to what will be commited
+3. git commit - to commit your progress
+4. git status - check your progress ie commits, current branch etc.
+5. git commit -m "the changes u made" - write a commit message in the quotation marks...should be under 50 xters long and should accurately describe what u changed in this commit
+6. git add . - adds everything done in all files in the repository to the commit
+7. git checkout "name of the branch u want to change to" - change between branches
+8. git checkout -b "name of the new branch" - create a new branch
+9. git merge "name of the branch" - this will merge the branch u are at with the branch u stated...i guess the it will go with the version of the stated one...not very clear yet send help🥺🤧
+
+
+
+
+
+
+
+⌨ Common GitHub Commands ⌨
+To create a new repository locally: git init
+To add files to staging area: git add .  OR   git add ~filename~
+To check status of staging area: git status
+To commit new changes: git commit -m "commit message"
+To create a new branch: git checkout -b ~branch name~
+To switch between branches: git checkout ~branch name~
+To merge branches together: git merge ~branch name~
+To add a remote repository: git remote add ~remote name~ ~https://yourremoteurl~
+To pull changes from a remote repository: git pull ~remote name~ ~branch name~
+To push changes to a remote repository: git push ~remote name~ ~branch name~
+debugging

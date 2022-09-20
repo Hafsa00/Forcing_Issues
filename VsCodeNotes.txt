@@ -24,15 +24,20 @@ common commands used in Git
 6. git add . - adds everything done in all files in the repository to the commit
 7. git checkout "name of the branch u want to change to" - change between branches
 8. git checkout -b "name of the new branch" - create a new branch
-9. git merge "name of the branch" - this will merge the branch u are at with the branch u stated...i guess the it will go with the version of the stated one...not very clear yet send help🥺🤧
+9. git merge "name of the branch" - this will merge the branch u are at with the branch u stated...i guess the it will go with the version of the stated one (not very clear yet send help🥺🤧)
+10.git config --global user.name "hafsa" - to work with a remote repository u first need to set up a username and email shown below
+11.git config --global user.email "hafsaryuzaki@gmail.com" - this is all for authentication and it may ask u to do it locally...it might also ask for yoput github password
+12.git config --global --add safe.directory "C:/xampp/htdocs/Final_year_Project/PATH BASICALLY" - idk what this was but it was suggested to me and it worked fine after this
+13.git remote add "remote name" "https://yourremoteurl" - adding a remote repository from github
+14.git push -u "remote name" "branch name" - push changes to a remote repository. the -u just saves the settings what comes after it so next time u type git push it automatically remembers what came after
+15.git pull "remote name" "branch name" - pull from a remote repository
+ also idk what's with master and main i keep confusing them🤦‍♀️
 
 
 
 
 
-
-
-⌨ Common GitHub Commands ⌨
+⌨ Common GitHub Commands ⌨ (the youtuber's notes)
 To create a new repository locally: git init
 To add files to staging area: git add .  OR   git add ~filename~
 To check status of staging area: git status
